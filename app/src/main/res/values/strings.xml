@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FamilyMapClientStudent</string>
+    <string name="serverHostPrompt">Server Host:</string>
+    <string name="serverPortPrompt">Server Port:</string>
+    <string name="usernamePrompt">User Name:</string>
+    <string name="passwordPrompt">Password:</string>
+    <string name="firstNamePrompt">First Name:</string>
+    <string name="lastNamePrompt">Last Name:</string>
+    <string name="emailPrompt">Email address:</string>
+    <string name="genderPrompt">Gender:</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="signInButton">Sign In</string>
+    <string name="registerButton">Register</string>
+
+    <string name="signInFailed_toast">Login Failed</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="firstline">firstLine</string>
+    <string name="secondline">secondLine</string>
+    <string name="personfirstName">Joe</string>
+    <string name="first_name">First Name</string>
+    <string name="person_last_name">lastName</string>
+    <string name="person_last_name_field">Last Name</string>
+    <string name="display_gender_text">Male</string>
+    <string name="gender_field">Gender</string>
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="show_life_story_lines">Show Life Story Lines</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="show_family_tree_lines">Show Family Tree Lines</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="show_spouse_lines">Show Spouse Lines</string>
+    <string name="father_s_side">Father\'s Side</string>
+    <string name="filter_by_father_s_side_of_family">Filter by Father\'s side of family</string>
+    <string name="mother_s_side">Mother\'s Side</string>
+    <string name="filter_by_mother_s_side_of_family">Filter by Mother\'s side of family</string>
+    <string name="male_events">Male Events</string>
+    <string name="filter_events_based_on_gender">Filter events based on gender</string>
+    <string name="female_events">Female Events</string>
+    <string name="logout">Logout</string>
+    <string name="return_to_login_screen">Return to Login Screen</string>
+    <string name="host">10.0.2.2</string>
+    <string name="port">8080</string>
+    <string name="title">Title</string>
+</resources>
